@@ -1,7 +1,17 @@
-# README
+# Todo Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Quick Setup
+P.S. Some quick copy paste commands on the bottom. Will update this README.md in time. Thank You for your patience!
+
+```
+git clone https://github.com/SeeYouSpaceCowboy/todo-api.git
+cd todo-api
+bundle install
+rake db:create
+rake db:migrate
+rake db:seed
+rails s
+```
 
 Things you may want to cover:
 
