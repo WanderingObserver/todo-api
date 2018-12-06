@@ -13,6 +13,8 @@ rake db:seed
 rails s
 ```
 
+## Work-in-Progress
+
 Things you may want to cover:
 
 * Ruby version
