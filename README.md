@@ -13,6 +13,8 @@ rake db:seed
 rails s
 ```
 
+The frontend to this project is [here](https://github.com/SeeYouSpaceCowboy/todo-web)
+
 ## Work-in-Progress
 
 Things you may want to cover:
